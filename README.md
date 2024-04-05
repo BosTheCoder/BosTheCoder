@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BossCodersHQ
-- 🛠️ Currently working on some cool AI EduTech, I'll be taking the repo off of private as soon as I can I promise!
-- 👀 I’m interested in Applied AI, Cloud services, Cool Algorithms, as well as Mobile App development (specifically Android)
+- 🛠️ Currently working on some cool AI EduTech 📖
+- 👀 I’m interested in all tech surrounding Health💪, Music🎧, and Productivity🖊️. Espcially Applied AI stuff + Mobile App Development :D
 - 💞️ I’m looking to collaborate on anything and everyting!
 - 📫 Find all my links here: https://linktr.ee/BossCoders
 
